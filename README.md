@@ -5,7 +5,8 @@ Project Description :
 NASA-Nearest-Earth-Objects-1910-2024-classification is the machine_learning project designed to analyze and predict "Nearest Earth Objects". Some such bodies really pose a danger to the planet Earth, will be classified as "is_hazardous".
 
 features : 
-1-Data analysis using ML techgniques 
+
+. Data analysis using ML techgniques 
 2- Accurate predictions based on data 
 
 Requirements: 
