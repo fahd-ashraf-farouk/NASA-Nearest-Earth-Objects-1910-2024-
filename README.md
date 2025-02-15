@@ -18,8 +18,17 @@ How to use the project:
 2- Read the dataset 
 3- Run the codes
 
-Porocces : 1-
+Porocces : 1- Informations about our dataset
+2- Data cleaning
+3- Exploratory Data Analysis (EDA)
+4- Data preprossing
+5- ML models(LogisticRegression-DecisionTreeClassifier-KNeighborsClassifier-RandomForestClassifier) implementation and evaluation(classification_report -accuracy_score)
+6- comparison betwen the real outputs and Predictions by the models (plots and numbers)
 
 
 Findigs: when exploring the dataset i found that the labels was imbalanced so i addresed this by the ML modls via class_weight prameter that make some models accurate well and some wasn't good
 
+Author Information: Aurthor:(Fahd Ashraf Farouk)
+/ Email:(ashraffahd27@gmail.com)
+
+Finaly: Thank You
