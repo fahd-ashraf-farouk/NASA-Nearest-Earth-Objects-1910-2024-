@@ -14,9 +14,9 @@ Requirements:
 
 How to use the project: 
 1- Download the Python_librarys by bach (pip install lib_name)
-1- Download the dataset from (https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data)
-2- Read the dataset 
-3- Run the codes
+2- Download the dataset from (https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data)
+3- Read the dataset 
+4- Run the codes
 
 Porocces : 1- Informations about our dataset
 2- Data cleaning
